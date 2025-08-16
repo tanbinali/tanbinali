@@ -1,23 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=250&section=header&text=MD.%20Tanbin%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Gamer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=250&section=header&text=MD.%20Tanbin%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descAlign=50"/>
 </p>
-
----
-
-<h2 align="center">👋 Hi, I'm Tanbin</h2>
-<h3 align="center">💻 A passionate software developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanbinali&label=Profile%20views&color=2ecc71&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanbinali&theme=matrix&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ## 🌟 About Me  
 
@@ -30,7 +13,6 @@
 - ⚡ Fun fact: **I love gaming and design**  
 
 ---
-
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -52,6 +34,15 @@
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanbinali&label=Profile%20views&color=2ecc71&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanbinali&theme=matrix&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbinali&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" height="160"/>
