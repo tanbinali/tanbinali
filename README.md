@@ -52,6 +52,25 @@
 
 ---
 
+## 🚀 Projects  
+
+<p align="center">
+  <a href="https://service-ease-client.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ServiceEase%20Client-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="ServiceEase Client"/>
+  </a>
+  <a href="https://serviceease-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ServiceEase%20API-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="ServiceEase API"/>
+  </a>
+  <a href="https://cyber-expert-tawny.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Cyber%20Expert-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="Cyber Expert"/>
+  </a>
+  <a href="https://vercel.com/tanbinalis-projects/library-manager-api/8JVJt66fVUePEu6bXf7Q18cZcXSP" target="_blank">
+    <img src="https://img.shields.io/badge/Library%20Manager%20API-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="Library Manager API"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanbinali&label=Profile%20views&color=2ecc71&style=flat" alt="Profile views" />
