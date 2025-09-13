@@ -7,10 +7,8 @@
 - 🎓 Student at **East Delta University**, Chattogram 
 - 💻 Focused on **Django, REST APIs, and Full-Stack Development**  
 - ⚡ Skilled in **Python, JavaScript, React, C++, C, HTML**  
-- 🎮 Gamer at heart — balancing logic & creativity  
-- 🌱 Currently learning **React & Full-Stack Development**  
+- 🌱 Currently learning **ReactJS & Full-Stack Development**  
 - 📫 Reach me at **tanbinali@gmail.com**  
-- ⚡ Fun fact: **I love gaming and design**  
 
 ---
 
@@ -98,7 +96,6 @@
 ---
 
 ## ✨ Fun Facts  
-- 🎮 My gamer tag: **Taikō / TaikōnoTenshi**  
 - 🖌️ I enjoy designing **logos, banners & digital art**  
 - ☕ Fueled by **Overflowing Passion to create something new**  
 - 🐍 Python & C++ are my comfort languages, but I love exploring new stacks  
