@@ -7,7 +7,7 @@
 - 🎓 Student at **East Delta University**, Chattogram 
 - 💻 Focused on **Django, REST APIs, and Full-Stack Development**  
 - ⚡ Skilled in **Python, JavaScript, React, C++, C, HTML**  
-- 🌱 Currently learning **ReactJS & Full-Stack Development**  
+- 🌱 Currently learning **SEO**  
 - 📫 Reach me at **tanbinali@gmail.com**  
 
 ---
