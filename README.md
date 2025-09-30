@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=250&section=header&text=MD.%20Tanbin%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=250&section=header&text=MD.%20Tanbin%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 ## 🌟 About Me  
@@ -58,6 +58,9 @@
   </a>
   <a href="https://serviceease-pi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/ServiceEase%20API-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="ServiceEase API"/>
+  </a>
+  <a href="https://event-management-django-neon.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Event%20Management-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="Event Management"/>
   </a>
   <a href="https://cyber-expert-tawny.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Cyber%20Expert-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="Cyber Expert"/>
