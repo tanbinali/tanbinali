@@ -8,7 +8,9 @@
 - 💻 Focused on **Django, REST APIs, and Full-Stack Development**  
 - ⚡ Skilled in **Python, JavaScript, React, C++, C, HTML**  
 - 🌱 Currently learning **SEO**  
-- 📫 Reach me at **tanbinali@gmail.com**  
+- 📫 Reach me at **tanbinali@gmail.com**
+- 🌐 Portfolio: [mdtanbinali-portfolio.vercel.app](https://mdtanbinali-portfolio.vercel.app)
+
 
 ---
 
@@ -16,6 +18,7 @@
 
 <p align="center">
   <a href="mailto:tanbinali@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-2ecc71?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mdtanbinali-portfolio.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mdtanbinali" target="blank"><img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/taikonotenshi" target="blank"><img src="https://img.shields.io/badge/Instagram-2ecc71?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/taikoplayz" target="blank"><img src="https://img.shields.io/badge/YouTube-2ecc71?style=for-the-badge&logo=youtube&logoColor=white"/></a>
