@@ -4,12 +4,13 @@
 
 ## 🌟 About Me
 
-- 🎓 Student at **East Delta University**, Chattogram
-- 💻 Focused on **Django, REST APIs, and Full-Stack Development**
-- ⚡ Skilled in **Python, JavaScript, React, C++, C, HTML**
-- 🌱 Currently learning **SEO**
-- 📫 Reach me at **tanbinali@gmail.com**
-- 🌐 Portfolio: [mdtanbinali-portfolio.vercel.app](https://mdtanbinali-portfolio.vercel.app)
+I am a dedicated **Full Stack Developer** specializing in building robust, scalable web applications. My expertise lies in bridging the gap between elegant frontend design and powerful backend architecture using **Django** and **React**. I thrive on solving complex problems and turning innovative ideas into functional digital products.
+
+* 🎓 **Education:** Computer Science & Engineering at **East Delta University**
+* 💻 **Focus:** Backend Architecture (REST APIs), Frontend State Management, & Database Optimization
+* 🌱 **Currently:** Enhancing my skills in **Search Engine Optimization (SEO)** and System Design
+* 📫 **Contact:** [tanbinali@gmail.com](mailto:tanbinali@gmail.com)
+* 🌐 **Portfolio:** [mdtanbinali-portfolio.vercel.app](https://mdtanbinali-portfolio.vercel.app)
 
 ---
 
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mdtanbinali">
-    <img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=dependabot&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/tanbinali">
     <img src="https://img.shields.io/badge/Codeforces-2ecc71?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -32,49 +33,49 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Ecosystem
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <th align="left">Category</th>
-      <th align="left">Technologies</th>
+      <th width="30%" align="left">Category</th>
+      <th width="70%" align="left">Technologies & Tools</th>
     </tr>
     <tr>
       <td><b>Languages</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css" />
+        <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css" alt="Languages" />
       </td>
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" alt="Frameworks" />
       </td>
     </tr>
     <tr>
       <td><b>Databases</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
       </td>
     </tr>
     <tr>
-      <td><b>Tools</b></td>
+      <td><b>Tools & Cloud</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,supabase" />
-        <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=git,github,supabase" alt="Tools" />
+        <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48" height="48" alt="Cloudinary" />
       </td>
     </tr>
     <tr>
       <td><b>Deployment</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vercel,render" />
+        <img src="https://skillicons.dev/icons?i=vercel,render" alt="Deployment" />
       </td>
     </tr>
     <tr>
-      <td><b>Design</b></td>
+      <td><b>Design Suite</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=ps,ai" />
+        <img src="https://skillicons.dev/icons?i=ps,ai" alt="Design" />
       </td>
     </tr>
   </table>
@@ -82,49 +83,65 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
 <div align="center">
 
-| Project | Type | Description |
+| Project | Stack | Description |
 | :--- | :---: | :--- |
-| <a href="https://service-ease-client.vercel.app/" target="_blank">**ServiceEase Client**</a> | ⚛️ | A complete frontend client built with **React** for service management. |
-| <a href="https://serviceease-pi.vercel.app/" target="_blank">**ServiceEase API**</a> | 🐍 | Robust backend API built with **Django REST Framework**. |
-| <a href="https://event-management-django-neon.vercel.app/" target="_blank">**Event Manager**</a> | 📅 | Full-stack event scheduling app using **Django MVT**. |
-| <a href="https://mohammadkhanautoparts.com" target="_blank">**Khan Auto Parts**</a> | 🛒 | Live e-commerce site for a real auto parts business. |
-| <a href="https://library-manager-api-alpha.vercel.app/" target="_blank">**Library API**</a> | 📚 | Book management system built with **PostgreSQL**. |
+| [**ServiceEase Client**](https://service-ease-client.vercel.app/) | `React` | A premium service management frontend featuring seamless UX. |
+| [**ServiceEase API**](https://serviceease-pi.vercel.app/) | `Django` | A high-performance RESTful API built to handle complex service logic. |
+| [**Event Manager**](https://event-management-django-neon.vercel.app/) | `Django` | A full-stack scheduling solution utilizing Django's MVT architecture. |
+| [**MK Auto Parts**](https://mohammadkhanautoparts.com) | `React` | An end-to-end e-commerce platform for a real-world auto business. |
+| [**Library API**](https://library-manager-api-alpha.vercel.app/) | `Django` | A robust data management system focused on relational structures. |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Insights
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanbinali&label=Profile%20views&color=2ecc71&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbinali&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbinali&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanbinali&theme=tokyonight&hide_border=true&ring=2ecc71&currStreakLabel=2ecc71" alt="GitHub Streak" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tanbinali&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbinali&theme=react-dark&hide_border=true&area=true&color=2ecc71&line=2ecc71&point=2ecc71" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbinali&theme=react-dark&hide_border=true&area=true&color=2ecc71&line=2ecc71&point=2ecc71" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
 
-## ✨ Fun Facts
+### 🧠 Codeforces Progress
 
-- 🖌️ I enjoy designing **logos, banners & digital art**
-- ☕ Fueled by **Overflowing Passion to create something new**
-- 🐍 Python & C++ are my comfort languages, but I love exploring new stacks
+<p align="center">
+  <a href="https://codeforces.com/profile/tanbinali" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbinali&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>
 
 ---
+
+## ✨ Beyond the Code
+
+* 🎨 **Creative Design:** I have a background in graphic design, specializing in logo and brand identity.
+* 🧠 **Philosophy:** I believe in writing code that is as clean as the UI it powers.
+* ⚡ **Fun Fact:** My development workflow is fueled by a mix of heavy metal and quiet contemplation.
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2ECC71&center=true&vCenter=true&width=850&lines=It's+not+about+whether+I+can+or+not.+I'm+gonna+do+it+because+I+want+to.+-+Luffy;Hard+work+is+worthless+for+those+that+don't+believe+in+themselves.+-+Naruto;If+you+don't+fight,+you+can't+win!+-+Eren+Yaeger" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer"/>
