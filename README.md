@@ -133,7 +133,7 @@ I am a dedicated **Full Stack Developer** specializing in building robust, scala
 
 * 🎨 **Creative Design:** I have a background in graphic design, specializing in logo and brand identity.
 * 🧠 **Philosophy:** I believe in writing code that is as clean as the UI it powers.
-* ⚡ **Fun Fact:** My development workflow is fueled by a mix of heavy metal and quiet contemplation.
+* ⚡ **Fun Fact:** My development workflow is fueled by a mix of lofi beats and quiet contemplation.
 
 ---
 
