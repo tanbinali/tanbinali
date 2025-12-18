@@ -26,7 +26,7 @@ I am a dedicated **Full Stack Developer** specializing in building robust, scala
   <a href="https://linkedin.com/in/mdtanbinali">
     <img src="https://img.shields.io/badge/LinkedIn-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codeforces.com/profile/tanbinali">
+  <a href="https://codeforces.com/profile/mdtanbinali">
     <img src="https://img.shields.io/badge/Codeforces-2ecc71?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
@@ -122,8 +122,8 @@ I am a dedicated **Full Stack Developer** specializing in building robust, scala
 ### 🧠 Codeforces Progress
 
 <p align="center">
-  <a href="https://codeforces.com/profile/tanbinali" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tanbinali&theme=tokyonight" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/mdtanbinali" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mdtanbinali&theme=tokyonight" alt="Codeforces Stats" />
   </a>
 </p>
 
