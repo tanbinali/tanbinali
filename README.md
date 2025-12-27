@@ -106,7 +106,7 @@ I am a dedicated **Full Stack Developer** specializing in building robust, scala
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanbinali&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanbinali&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
